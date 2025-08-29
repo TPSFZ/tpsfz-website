@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tpsfz.com/sitemap.xml
